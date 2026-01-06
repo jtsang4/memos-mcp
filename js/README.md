@@ -1,4 +1,4 @@
-# memos-mcp (npm wrapper)
+# memos-mcp
 
 This package downloads the prebuilt `memos-mcp` binary from GitHub releases and runs it in MCP stdio mode.
 
